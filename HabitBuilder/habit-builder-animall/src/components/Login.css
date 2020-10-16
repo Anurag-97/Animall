@@ -1,0 +1,17 @@
+.loginclass {
+  width: 100vw;
+  height: 100vh;
+}
+.loginclass > button {
+  width: 300px;
+  height: 50px;
+  border-radius: 50px;
+  font-size: 21px;
+  background-color: teal;
+  color: white;
+  outline-width: 0;
+}
+.loginclass > button:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

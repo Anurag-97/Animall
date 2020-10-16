@@ -1,0 +1,16 @@
+Hello Sandeep
+Thankyou once again.
+I have made this project keeping in mind that it deals with habits , like reading books , baking cakes , so for such events how I have defined frequency is , as a target , i.e , target=8 means he plans to read 8 books or bake 8 cakes.You can update each day if you did that habit. You can check rewards in reward page. Create habit too.
+
+Instructions
+1)open the folder HabitBuilder in VS Code or any editor you like.
+2)npm install
+3)npm run install-client ( incase it doesnt work , type cd habit-builder-animall and then npm install )
+4)npm run dev
+
+It has google authentication added now
+Port 3000 and 5000 is used.
+Let me know your valuable feedback.
+Feel free to email, whatsapp or call me. 
+Thankyou
+Anurag

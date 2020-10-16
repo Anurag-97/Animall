@@ -1,0 +1,11 @@
+.butt {
+  width: 200px;
+  height: 30px;
+  background-color: lightseagreen;
+  border-radius: 50px;
+  outline-width: 0;
+}
+.butt:hover {
+  cursor: pointer;
+  opacity: 0.7;
+}

@@ -1,0 +1,14 @@
+.rewardstable {
+  padding-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rewardstable > thead > tr > th {
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 30px;
+}
+.rewardstable > tbody > tr > td {
+  padding: 10px;
+  font-size: 25px;
+}
